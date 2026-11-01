@@ -145,6 +145,9 @@ const App = () => {
           </div>
         )}
       </main>
+      <footer className="fixed bottom-3 right-4 z-50 text-base text-gray-500 opacity-80">
+        © 2026 Made with <span className="text-red-500">♥</span> by Arnav
+      </footer>
     </div>
   );
 };
